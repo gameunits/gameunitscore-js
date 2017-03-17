@@ -13,13 +13,13 @@ exports.livenet = {
   hkeyPublicVersion: 0x0488b21e,
   hkeyPrivateVersion: 0x0488ade4,
   genesisBlock: {
-    hash: hex('1afab95afec6b7a602e751063aff1cd37d548979a137e4fc37e01dddba0c0000'),
-    merkle_root: hex('8e16342251b42ef07479c3064dd026c59d31eddc79504223b6c284bfd45e16bd'),
+    hash: hex('ffc04ef23eb8839870f371c068068544ef227e1548472da6aefb903174000000'),
+    merkle_root: hex('8f2d39604893b2588767903bc075befec96f0883832a8ca62a102a680c64b394'),
     height: 0,
-    nonce: 321916,
+    nonce: 88473,
     version: 1,
     prev_hash: buffertools.fill(new Buffer(32), 0),
-    timestamp: 1462659666,
+    timestamp: 1465646666,
     bits: 504365055,
   },
   dnsSeeds: [
